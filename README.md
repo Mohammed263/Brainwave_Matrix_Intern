@@ -40,7 +40,7 @@ Retail sales dataset with 100,000 transactions. Fields include:
 - Some large sales happened with little or no discount, which may indicate strong customer loyalty or product value.
 
 ### Screenshot
-![Dashboard Screenshots](Dashboard)
+![Dashboard Screenshot](Dashboard%20Screenshots/Dashboard.png)
 
 ### Author
 
