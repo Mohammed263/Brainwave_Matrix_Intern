@@ -39,9 +39,9 @@ Retail sales dataset with 100,000 transactions. Fields include:
 - The most sold product categories were Jewelry, Movies, and Toys, each generating approximately $2.4 million.
 - Some large sales happened with little or no discount, which may indicate strong customer loyalty or product value.
 
-### Screenshot
-## Dashboard Screenshot
-![Dashboard Screenshot](Dashboard%20Screenshots/Dashboard.PNG)
+
+### Dashboard
+![Dashboard Screenshots](Dashboard%20Screenshots/Dashboard.PNG)
 
 
 ### Author
