@@ -42,7 +42,7 @@ Retail sales dataset with 100,000 transactions. Fields include:
 
 
 ### Dashboard
-![Dashboard Screenshot](Dashboard%20Screenshots/Dashboard.PNG)
+![D](Dashboard%20Screenshots/Dashboard.PNG)
 
 
 ### Author
