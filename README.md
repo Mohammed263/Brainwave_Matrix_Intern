@@ -17,6 +17,7 @@ The dashboard includes:
 ### Tools Used
 - Power BI
 - Power Query
+- DAX
 
 ### Skills Demonstrated
 - Data Cleaning & Transformation
