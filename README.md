@@ -47,4 +47,4 @@ Retail sales dataset with 100,000 transactions. Fields include:
 
 ### Author
 
-Mohammad Anwar — Intern at Brainwave Matrix Solutions
+Mohammad Anwar — Data Analyst Intern at Brainwave Matrix Solutions
