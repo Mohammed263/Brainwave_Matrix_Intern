@@ -1,6 +1,4 @@
-# Brainwave_Matrix_Intern
-
-Retail Sales Dashboard - Power BI Project
+# Retail Sales Dashboard - Power BI Project
 - Dashboard project for retail sales analysis using Power BI
 
 - This project is part of a data analysis internship task at Brainwave Matrix Solutions. It showcases a detailed Power BI dashboard built using a dataset of 100,000 retail sales records.
