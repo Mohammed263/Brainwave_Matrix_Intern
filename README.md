@@ -12,7 +12,7 @@ Each task focuses on different tools and skills in data analysis and visualizati
 - Built interactive reports using Power Pivot and DAX
 - Created visual dashboards using Excel Pivot Charts & Power BI
 
-→ [View Task 1 Folder](.Task1_Retail Sales Analysis)
+→ [View Task 1 Folder](./Task 1_Retail Sales Analysis)
 
 ---
 
