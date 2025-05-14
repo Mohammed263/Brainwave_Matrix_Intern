@@ -22,7 +22,8 @@ Each task focuses on different tools and skills in data analysis and visualizati
 - Applied text preprocessing, stopword removal, and sentiment scoring using VADER
 - Visualized results using bar charts, pie charts, and word clouds
 
-→ [View Task 2](./Task%202_%20Social%20Media%20Sentiment%20Analysis)
+→ [View Task 2](./Task%202_Social%20Media%20Sentiment%20Analysis)
+
 
 
 ---
